@@ -7,7 +7,7 @@ The application is designed to simplify content creation and improve productivit
 
 2. Live Application
 
-https://genie-ai-copy-c8e4b03e.base44.app)](https://genie-ai-copy-c8e4b03e.base44.app
+https://genie-ai-copy-c8e4b03e.base44.app
 
 3. Core Features
 ✨ Content Generation
