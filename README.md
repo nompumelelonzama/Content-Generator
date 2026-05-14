@@ -10,13 +10,13 @@ The application is designed to simplify content creation and improve productivit
 https://genie-content-generator.base44.app
 
 3. Core Features
-✨ Content Generation
+ Content Generation
 Converts user prompts into structured text outputs
 Generates ideas, summaries, and descriptive content
-⚡ Fast Processing
+ Fast Processing
 Real-time content generation after input
 Immediate display of results
-🧠 Prompt-Based System
+ Prompt-Based System
 Accepts user prompts as input
 Produces contextual AI-generated responses
 4. System Architecture
